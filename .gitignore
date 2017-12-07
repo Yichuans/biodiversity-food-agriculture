@@ -4,7 +4,9 @@
 *.xml
 *.mxd
 *.ini
+*.xlsx
 cacti
 info
 refs
 output
+test
